@@ -1,0 +1,14 @@
+#top_title {
+    text-align: center;
+}
+
+#header_grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 8px
+}
+.header_cards {
+    border: solid black 7px;
+    padding: 8px;
+    text-align: center;
+}
